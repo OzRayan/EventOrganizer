@@ -1,5 +1,5 @@
 # This app was coded in IntelliJ 2020.3.3 pro version.
-# The app is connecting to phpMyAdmin server, without database the can not run.
+# The app is connecting to phpMyAdmin server, without database the script can not run.
 
 # In order to run the app:
     * For this project it was used the XAMPP v3.2.4, to connect to a server,
